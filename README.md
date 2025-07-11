@@ -1,3 +1,6 @@
+## btk-akademi
+<img width="1580" height="1123" alt="Image" src="https://github.com/user-attachments/assets/412210ea-ee6e-4b2a-be0c-9e6dce718602" /> 
+
 ## miuul-summer-camp 
  
 ### 1. Bölüm: Veri Bilimi için Python Programlama
