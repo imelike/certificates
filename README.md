@@ -107,6 +107,8 @@
 
 ![Temel Linux401](https://github.com/user-attachments/assets/efa4d0a9-627c-4991-8a82-40f429f0646f)
 
+## 
+* <img width="1600" height="1132" alt="Image" src="https://github.com/user-attachments/assets/c5317b5c-2f92-4e82-97a0-7e15798ce153" />
 
 ## Coursera
 
@@ -116,5 +118,7 @@
 * * https://www.coursera.org/account/accomplishments/verify/2JJE8T74TLG9
 * Natural Language Processing with Classification and Vector Spaces
 * * https://www.coursera.org/account/accomplishments/verify/LEKE45UMY2YR
- 
-
+* Proje Yönetiminin Temelleri
+* * https://www.coursera.org/account/accomplishments/verify/HFS2C3JZMDRE
+* Projeyi Başlatma: Projeye Başarıyla Adım Atma
+* * https://www.coursera.org/account/accomplishments/verify/6XL6KPNSPV4K
