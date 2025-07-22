@@ -107,8 +107,33 @@
 
 ![Temel Linux401](https://github.com/user-attachments/assets/efa4d0a9-627c-4991-8a82-40f429f0646f)
 
+
+### 3. Bölüm: Python & Ml & Nlp
+
+* 101: Kurulum, Çalışma Ortamı Ayarları
+* 201: Python Veri Yapıları, Listeler, Sözlükler, Tuple, Setler
+* 301: Fonksiyonlar, Karar-Kontrol Yapıları ve Döngüler
+* 401: Nesne Yönelimli Programlama ve Fonksiyonel Programlama
+  
+<img width="1012" height="651" alt="Image" src="https://github.com/user-attachments/assets/6a37c272-2c2c-446e-8e02-ccaeb52acedc" />
+
+<img width="1012" height="647" alt="Image" src="https://github.com/user-attachments/assets/0e1febad-3b30-4b18-88b8-b2b719fd5027" />
+
+<img width="1012" height="650" alt="Image" src="https://github.com/user-attachments/assets/59c82ef1-a866-49f5-bde6-cae56c9bf8a2" />
+
+<img width="1012" height="732" alt="Image" src="https://github.com/user-attachments/assets/24b8c789-e88a-42f0-b1f6-8b0f9c8fc0f0" />
+
+<img width="1012" height="728" alt="Image" src="https://github.com/user-attachments/assets/507d7584-a1af-49ce-8e9b-768ac51e0fe0" />
+
+<img width="1012" height="728" alt="Image" src="https://github.com/user-attachments/assets/85f8be52-613e-43f0-abf0-1ff611a34d64" />
+
+<img width="1012" height="716" alt="Image" src="https://github.com/user-attachments/assets/f69faed4-1996-4215-b15a-947704728b7f" />
+
+
+  
 ## 
-* <img width="1600" height="1132" alt="Image" src="https://github.com/user-attachments/assets/c5317b5c-2f92-4e82-97a0-7e15798ce153" />
+<img width="1012" height="750" alt="Image" src="https://github.com/user-attachments/assets/c5317b5c-2f92-4e82-97a0-7e15798ce153" />
+
 
 ## Coursera
 
