@@ -135,6 +135,7 @@
 <img width="1358" height="953" alt="Image" src="https://github.com/user-attachments/assets/941410d2-35a6-41eb-9b59-7e395bd55576" />
 <img width="1358" height="933" alt="Image" src="https://github.com/user-attachments/assets/aec6c5e2-8ee1-4fba-a753-16a45ea20e07" />
 <img width="1358" height="750" alt="Image" src="https://github.com/user-attachments/assets/c5317b5c-2f92-4e82-97a0-7e15798ce153" />
+<img width="1650" height="1172" alt="Image" src="https://github.com/user-attachments/assets/8f0d425d-d9ce-49d1-b672-7cc150fa3104" />
 
 
 ## Coursera
